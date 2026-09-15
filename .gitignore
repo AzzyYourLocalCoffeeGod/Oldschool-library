@@ -1,0 +1,5 @@
+*.o
+*.out
+tetrismatrix
+tetrisskeleton
+tetrisskeleton_full
